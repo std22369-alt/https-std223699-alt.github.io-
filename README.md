@@ -1,4 +1,4 @@
-สถานที่ท่องเที่ยวของญี่ปุ่น
+img
 <img src="65718.jpg" width="100%">
     <img src="65714.jpg" width="100%">
 </body>
@@ -28,12 +28,8 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <img src="65717.jpg" width="100%">
-</body>
-
-</html>
 <html lang="en">
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <img src="65719.jpg" width="100%">
-    
+    <img src="65719.jpg" width="100%">jpg
