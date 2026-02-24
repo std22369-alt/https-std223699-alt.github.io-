@@ -20,7 +20,7 @@
 <body>
     
 </body>
-</html>ดู<!DOCTYPE html>
+</html><!DOCTYPE html>
 <html lang="en">
 <head>
     <meta charset="UTF-8">
@@ -63,3 +63,4 @@
 </body>
 
 </html>
+    <img src="65719.jpg" width="100%">
