@@ -1,18 +1,19 @@
-!DOCTYPE html>
+<!DOCTYPE html>
 <html lang="en">
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>menu</title>
+    <title>สถานที่ท่องเที่ยวญี่ปุ่น</title>
 </head>
+<frameset rows="35%,*">
+    <frame src="65732.jpg" name="top" noresize scrolling="no">
+    <frameset cols="10%,*">
+        <frame src="menu.html" name="menu" frameborder="0">
+            <frame src="main.html" name="main" frameborder="0">
+        </frameset>
+</frameset>
 <body>
-    <font size="6" face="JamineUPC">
-        <a href="main.html" target="main">home</a><br>
-        <a href="ปราสาทโอซาก้า.html" target="main">ปราสาทโอซาก้า</a><br>
-        <a href="วัดคิโยมิสุ.html" target="main">วัดคิโยมิสุ</a><br>
-        <a href="ฟูจิซัง.html" target="main">ฟูจิซัง</a><br>
-        <a href="ศาลเจ้าจิ้งจอก.html" target="main">ศาลเจ้าจิ้งจอก</a><br>
-        <a href="โตเกียวทาวเวอร์.html" target="main">โตเกียวทาวเวอร์</a>
+    
 </body>
 </html>
 <!DOCTYPE html>
@@ -20,9 +21,27 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>ปราสาทโอซาก้า</title>
+    <title>สถานที่ท่องเที่ยวญี่ปุ่น</title>
+</head>
+<frameset rows="35%,*">
+    <frame src="65732.jpg" name="top" noresize scrolling="no">
+    <frameset cols="10%,*">
+        <frame src="menu.html" name="menu" frameborder="0">
+            <frame src="main.html" name="main" frameborder="0">
+        </frameset>
+</frameset>
+<body>
+    
+</body>
+</html>
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>home</title>
 </head>
 <body>
-    <img src="65714.jpg" width="100%">
+    <img src="65719.jpg" width="100%">
 </body>
-</html> ของ ปราสาทโอซาก้า.html
+</html> 
