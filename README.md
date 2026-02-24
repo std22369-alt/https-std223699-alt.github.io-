@@ -20,7 +20,7 @@
 <body>
     
 </body>
-</html><!DOCTYPE html>
+</html>
 <html lang="en">
 <head>
     <meta charset="UTF-8">
@@ -30,7 +30,6 @@
     <img src="65714.jpg" width="100%">
 </body>
 </html>
-<!DOCTYPE html>
 <html lang="en">
 <head>
     <meta charset="UTF-8">
@@ -41,7 +40,6 @@
 </body>
 
 </html>
-<!DOCTYPE html>
 <html lang="en">
 <head>
     <meta charset="UTF-8">
@@ -52,7 +50,6 @@
 </body>
 
 </html>
-<!DOCTYPE html>
 <html lang="en">
 <head>
     <meta charset="UTF-8">
@@ -64,3 +61,5 @@
 
 </html>
     <img src="65719.jpg" width="100%">
+    </body>
+    </html>
