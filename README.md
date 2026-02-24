@@ -1,0 +1,28 @@
+!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>menu</title>
+</head>
+<body>
+    <font size="6" face="JamineUPC">
+        <a href="main.html" target="main">home</a><br>
+        <a href="ปราสาทโอซาก้า.html" target="main">ปราสาทโอซาก้า</a><br>
+        <a href="วัดคิโยมิสุ.html" target="main">วัดคิโยมิสุ</a><br>
+        <a href="ฟูจิซัง.html" target="main">ฟูจิซัง</a><br>
+        <a href="ศาลเจ้าจิ้งจอก.html" target="main">ศาลเจ้าจิ้งจอก</a><br>
+        <a href="โตเกียวทาวเวอร์.html" target="main">โตเกียวทาวเวอร์</a>
+</body>
+</html>
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>ปราสาทโอซาก้า</title>
+</head>
+<body>
+    <img src="65714.jpg" width="100%">
+</body>
+</html> ของ ปราสาทโอซาก้า.html
