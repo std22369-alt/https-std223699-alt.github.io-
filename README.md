@@ -1,5 +1,5 @@
 สถานที่ท่องเที่ยวของญี่ปุ่น
-<img src="6571.jpg" width="100%">
+<img src="65718.jpg" width="100%">
     <img src="65714.jpg" width="100%">
 </body>
 </html>
